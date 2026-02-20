@@ -6,3 +6,6 @@
 
 > Understanding binary cross-entropy / log loss: a visual explanation
 - https://towardsdatascience.com/understanding-binary-cross-entropy-log-loss-a-visual-explanation-a3ac6025181a/
+
+> Machine Learning Glossary
+- https://ml-cheatsheet.readthedocs.io/en/latest/index.html

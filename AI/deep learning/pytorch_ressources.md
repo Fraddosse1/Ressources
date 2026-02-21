@@ -9,3 +9,6 @@
 
 > Inference in PyTorch: Understanding the Wrappers and Choosing the Best
 - https://medium.com/@whyamit404/inference-in-pytorch-understanding-the-wrappers-and-choosing-the-best-d4f16fbde960
+
+> Understanding Dropout in Deep Learning: A Guide to Reducing Overfitting
+- https://medium.com/@piyushkashyap045/understanding-dropout-in-deep-learning-a-guide-to-reducing-overfitting-26cbb68d5575

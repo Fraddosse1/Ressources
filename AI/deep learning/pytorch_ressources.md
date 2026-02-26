@@ -12,3 +12,9 @@
 
 > Understanding Dropout in Deep Learning: A Guide to Reducing Overfitting
 - https://medium.com/@piyushkashyap045/understanding-dropout-in-deep-learning-a-guide-to-reducing-overfitting-26cbb68d5575
+
+> Batch Norm Explained Visually — How it works, and why neural networks need it 
+- https://medium.com/data-science/batch-norm-explained-visually-how-it-works-and-why-neural-networks-need-it-b18919692739
+
+> Batch Norm Explained Visually - Why does it work
+- https://towardsdatascience.com/batch-norm-explained-visually-why-does-it-work-90b98bcc58a0/?source=post_page-----b18919692739---------------------------------------

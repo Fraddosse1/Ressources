@@ -29,3 +29,6 @@
 
 > Evaluating Object Detection Models Using Mean Average Precision (mAP)
 - https://www.digitalocean.com/community/tutorials/mean-average-precision
+
+> Non Max Suppression (NMS)
+- https://medium.com/analytics-vidhya/non-max-suppression-nms-6623e6572536

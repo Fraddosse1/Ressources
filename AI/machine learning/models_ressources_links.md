@@ -24,3 +24,5 @@
 > Cross Validation
 - https://ompramod.medium.com/cross-validation-623620ff84c2
 
+> Mean Average Precision (mAP) Explained: Everything You Need to Know
+- https://www.v7labs.com/blog/mean-average-precision

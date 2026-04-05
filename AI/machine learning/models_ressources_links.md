@@ -26,3 +26,6 @@
 
 > Mean Average Precision (mAP) Explained: Everything You Need to Know
 - https://www.v7labs.com/blog/mean-average-precision
+
+> Evaluating Object Detection Models Using Mean Average Precision (mAP)
+- https://www.digitalocean.com/community/tutorials/mean-average-precision

@@ -18,3 +18,6 @@
 
 > Batch Norm Explained Visually - Why does it work
 - https://towardsdatascience.com/batch-norm-explained-visually-why-does-it-work-90b98bcc58a0/?source=post_page-----b18919692739---------------------------------------
+
+> Pytorch Basics : Efficient data management with Dataset and Dataloader
+- https://medium.com/@manindersingh120996/pytorch-basics-efficient-data-management-with-dataset-and-dataloader-e3aaebe61681

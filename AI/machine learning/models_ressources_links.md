@@ -32,3 +32,6 @@
 
 > Non Max Suppression (NMS)
 - https://medium.com/analytics-vidhya/non-max-suppression-nms-6623e6572536
+
+> Understanding the Differences: Fine-Tuning vs. Transfer Learning
+- https://dev.to/luxdevhq/understanding-the-differences-fine-tuning-vs-transfer-learning-370#:~:text=Transfer%20learning%20and%20fine%2Dtuning%20are%20two%20popular,small**%20*%20

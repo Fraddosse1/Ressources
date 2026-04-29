@@ -35,3 +35,9 @@
 
 > Understanding the Differences: Fine-Tuning vs. Transfer Learning
 - https://dev.to/luxdevhq/understanding-the-differences-fine-tuning-vs-transfer-learning-370#:~:text=Transfer%20learning%20and%20fine%2Dtuning%20are%20two%20popular,small**%20*%20
+
+> What is explainable AI? 
+- https://www.ibm.com/think/topics/explainable-ai
+
+> Explainable AI (XAI) and Interpretability in Machine Learning: Making Models Transparent
+- https://medium.com/@hassaanidrees7/explainable-ai-xai-and-interpretability-in-machine-learning-making-models-transparent-2ce9fcfd26f4

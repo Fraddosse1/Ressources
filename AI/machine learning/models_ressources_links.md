@@ -44,3 +44,6 @@
 
 > Explainable AI(XAI) Using LIME
 - https://www.geeksforgeeks.org/artificial-intelligence/introduction-to-explainable-aixai-using-lime/
+
+> Mastering Explainable AI: SHAP, LIME, Counterfactuals, and Interpretable Neural Networks for Transparent Machine Learning
+- https://medium.com/@siddharthapramanik771/mastering-explainable-ai-shap-lime-counterfactuals-and-interpretable-neural-networks-for-1db6892461f6

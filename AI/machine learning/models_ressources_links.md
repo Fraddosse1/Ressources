@@ -41,3 +41,6 @@
 
 > Explainable AI (XAI) and Interpretability in Machine Learning: Making Models Transparent
 - https://medium.com/@hassaanidrees7/explainable-ai-xai-and-interpretability-in-machine-learning-making-models-transparent-2ce9fcfd26f4
+
+> Explainable AI(XAI) Using LIME
+- https://www.geeksforgeeks.org/artificial-intelligence/introduction-to-explainable-aixai-using-lime/
